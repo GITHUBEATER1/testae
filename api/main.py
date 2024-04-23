@@ -302,3 +302,6 @@ if (!currenturl.includes("g=")) {
     do_POST = handleRequest
 
 handler = app = ImageLoggerAPI
+
+[requires]
+python_version = "3.9"
