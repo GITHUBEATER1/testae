@@ -1,5 +1,7 @@
+[requires]
+python_version = "3.9"
 http.server
 urllib3
 requests
 httpagentparser
-python-3.9
+
